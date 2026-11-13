@@ -115,7 +115,8 @@ Output files are saved in `outputs/`, and execution screenshots are in `screensh
 
 **Discussion:** T1 always ran first whenever it was released, followed by T2 and T3, which matches the fixed priorities. All 11 task instances completed before their deadlines. The CPU was idle for 7 of the 20 ms (6-8, 9-10, 14-15, and 17-20), which matches the computed 65% utilization (13 ms busy out of 20).
 
-![RMS execution](screenshots/rms_output.png)
+<img width="1466" height="671" alt="rms_output" src="https://github.com/user-attachments/assets/c803f8b1-c215-48ce-a066-b2979a57c148" />
+
 
 #### C. Earliest Deadline First
 
